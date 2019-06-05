@@ -19,7 +19,7 @@ Notice that there are no `actions` or `emit`. You just change the state, and
 the ui renders.
 
 There is one gotcha though: you can't change some nested state, and you can't
-adding stuff keys to your state that you didn't pass in from the beginning.
+add keys to your state that you didn't pass in from the beginning.
 
 ```ts
 import { h, app, State } from 'eduapp'
