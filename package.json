@@ -1,0 +1,11 @@
+{
+    "name": "eduapp",
+    "version": "0.0.1",
+    "module": "src/index.ts",
+    "dependencies": {
+        "superfine": "^6.0.1"
+    },
+    "devDependencies": {
+        "typescript": "^3.5.1"
+    }
+}
